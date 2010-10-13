@@ -1,0 +1,23 @@
+snake:
+  id: 1
+  name: harry
+  diameter: 10
+  length: 2.5
+  height: 10
+  distance_travelled: 100
+  
+bus:
+  id: 2
+  name: bob
+  diameter: 2700
+  length: 5
+  height: 4000
+  distance_travelled: 100000
+
+ant:
+  id: 3
+  name: carl
+  diameter: 0.3
+  length: 0.001
+  height: 0.5
+  distance_travelled: 0.1  

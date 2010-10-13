@@ -1,9 +1,7 @@
 ActsAsMetrical
 ==============
 
-Lets you define attributes that represent metric values. Those attributes will get a range of getters and setters which do the 
-metric conversion for you. This enables you to store the values always in your preferred unit but easily lets you read and write
-in any unit (mm, cm, m, km).
+Lets you define attributes that represent metric values. Those attributes will get a range of getters and setters which do the metric conversion for you. This enables you to store the values always in your preferred unit but easily lets you read and write in any unit (mm, cm, m, km).
 
 Example
 =======
